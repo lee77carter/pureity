@@ -1,0 +1,6 @@
+# Ignore the following files and directories:
+.DS_Store
+uploads
+wp-config.php
+.htaccess
+*.html

@@ -1,0 +1,7 @@
+[09-Oct-2015 21:50:05 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60
+[12-Oct-2015 09:14:22 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60
+[23-Oct-2015 06:22:55 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60
+[24-Oct-2015 13:03:56 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60
+[15-Mar-2016 20:19:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60
+[15-Mar-2016 20:19:55 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60
+[26-Apr-2016 15:51:54 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/heaveog3/public_html/wp-content/plugins/hello.php on line 60

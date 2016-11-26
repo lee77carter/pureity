@@ -1,0 +1,3 @@
+[01-Oct-2016 21:54:41 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/heaveog3/public_html/wp-content/themes/enigma-parallax/index.php on line 1
+[01-Oct-2016 21:55:02 America/Denver] PHP Fatal error:  Call to undefined function enigma_parallax_get_options() in /home1/heaveog3/public_html/wp-content/themes/enigma-parallax/home-slideshow.php on line 11
+[01-Oct-2016 21:55:22 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/heaveog3/public_html/wp-content/themes/enigma-parallax/index.php on line 1
